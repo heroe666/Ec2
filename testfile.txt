@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 FUCK
+=======
+uuuhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+>>>>>>> a07ec3de5e50ce98b31792ecbbc411fbc1b5c932
